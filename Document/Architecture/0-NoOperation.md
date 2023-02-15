@@ -1,0 +1,1 @@
+Executing this instruction will cost an instruction cycle, and will cost the equal amount of time as other operations without performing any work. This could be used to make percevable delays based on the clock speed, interupt times, and other properties.
