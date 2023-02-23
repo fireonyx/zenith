@@ -1,1 +1,0 @@
-Terminating the machine will trigger a system interupt. The interupt may be used to control some hardware to terminate the host machine.

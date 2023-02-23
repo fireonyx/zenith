@@ -1,0 +1,6 @@
+import { print_basic } from "falcon-serial@fireonyx";
+
+start {
+    print_basic("Hello World!");
+    return 0;
+};

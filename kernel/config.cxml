@@ -1,0 +1,3 @@
+type: Type::Bootable;
+sources: FileAuto::Bootable;
+export_mode: ExportAuto::Bootable;
